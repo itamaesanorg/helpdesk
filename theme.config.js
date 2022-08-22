@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/itamaesanorg/helpdesk',
-  docsRepositoryBase: 'https://github.com/itamaesanorg/helpdesk/blob/master',
+  docsRepositoryBase: 'https://github.com/itamaesanorg/helpdesk/',
   titleSuffix: ' – helpdesk',
   logo: (
     <>
@@ -19,11 +19,11 @@ export default {
       <meta name="description" content="helpdesk: the Next.js site builder" />
       <meta name="og:description" content="helpdesk: the Next.js site builder" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://helpdesk.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="helpdesk.vercel.app" />
-      <meta name="twitter:url" content="https://helpdesk.vercel.app" />
+      <meta name="twitter:image" content="https://helpdesk.sushijs.com/og.png" />
+      <meta name="twitter:site:domain" content="helpdesk.sushijs.com" />
+      <meta name="twitter:url" content="https://helpdesk.sushijs.com" />
       <meta name="og:title" content="helpdesk: Next.js static site generator" />
-      <meta name="og:image" content="https://helpdesk.vercel.app/og.png" />
+      <meta name="og:image" content="https://helpdesk.sushijs.com/og.png" />
       <meta name="apple-mobile-web-app-title" content="helpdesk" />
       <link
         rel="apple-touch-icon"
