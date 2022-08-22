@@ -38,6 +38,14 @@
 - [Wri on npm](https://www.npmjs.com/package/wri)
 
 
+## About Helpdesk
+
+### You will be able to publish your docs from online services with a one click install integration, called, helpdesk, sooner we will integrate python and rust too! Stay tuned!
+
+- [helpdesk](https://github.com/itamaesanorg/helpdesk)
+- [helpdesk on npm](https://www.npmjs.com/package/helpdesk)
+
+
 ## About Giveaway Tool
 
 ### ITAMAESAN also works for private companies, with one exclusive clause, work always with MIT Licenses and release the code on day 1.
